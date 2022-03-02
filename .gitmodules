@@ -4,3 +4,6 @@
 [submodule "python-git"]
 	path = python-git
 	url = https://aur.archlinux.org/python-git
+[submodule "python-streamlit-webrtc"]
+	path = python-streamlit-webrtc
+	url = https://aur.archlinux.org/python-streamlit-webrtc.git
