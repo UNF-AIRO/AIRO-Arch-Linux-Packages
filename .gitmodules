@@ -7,3 +7,6 @@
 [submodule "python-streamlit-webrtc"]
 	path = python-streamlit-webrtc
 	url = https://aur.archlinux.org/python-streamlit-webrtc.git
+[submodule "xorg-server-git"]
+	path = xorg-server-git
+	url = https://aur.archlinux.org/xorg-server-git.git
