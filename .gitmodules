@@ -19,3 +19,6 @@
 [submodule "x11docker"]
 	path = x11docker
 	url = https://aur.archlinux.org/x11docker.git
+[submodule "python311"]
+	path = python311
+	url = https://aur.archlinux.org/python311.git
