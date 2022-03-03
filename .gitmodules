@@ -16,3 +16,6 @@
 [submodule "podman-tui"]
 	path = podman-tui
 	url = https://aur.archlinux.org/podman-tui.git
+[submodule "x11docker"]
+	path = x11docker
+	url = https://aur.archlinux.org/x11docker.git
