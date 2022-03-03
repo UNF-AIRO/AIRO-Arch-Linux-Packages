@@ -10,3 +10,6 @@
 [submodule "xorg-server-git"]
 	path = xorg-server-git
 	url = https://aur.archlinux.org/xorg-server-git.git
+[submodule "aurutils"]
+	path = aurutils
+	url = https://aur.archlinux.org/aurutils.git
