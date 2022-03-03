@@ -13,3 +13,6 @@
 [submodule "aurutils"]
 	path = aurutils
 	url = https://aur.archlinux.org/aurutils.git
+[submodule "podman-tui"]
+	path = podman-tui
+	url = https://aur.archlinux.org/podman-tui.git
