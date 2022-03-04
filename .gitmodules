@@ -22,3 +22,6 @@
 [submodule "python311"]
 	path = python311
 	url = https://aur.archlinux.org/python311.git
+[submodule "zfs-linux-zen"]
+	path = zfs-linux-zen
+	url = https://aur.archlinux.org/zfs-linux-zen.git
