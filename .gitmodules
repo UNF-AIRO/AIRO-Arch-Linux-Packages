@@ -25,3 +25,6 @@
 [submodule "zfs-linux-zen"]
 	path = zfs-linux-zen
 	url = https://aur.archlinux.org/zfs-linux-zen.git
+[submodule "zfs-linux-hardened"]
+	path = zfs-linux-hardened
+	url = https://aur.archlinux.org/zfs-linux-hardened.git
