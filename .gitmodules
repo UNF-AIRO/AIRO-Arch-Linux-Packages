@@ -28,3 +28,6 @@
 [submodule "zfs-linux-hardened"]
 	path = zfs-linux-hardened
 	url = https://aur.archlinux.org/zfs-linux-hardened.git
+[submodule "python-streamlit"]
+	path = python-streamlit
+	url = https://aur.archlinux.org/python-streamlit.git
