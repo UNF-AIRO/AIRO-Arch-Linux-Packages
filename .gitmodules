@@ -31,3 +31,6 @@
 [submodule "python-streamlit"]
 	path = python-streamlit
 	url = https://aur.archlinux.org/python-streamlit.git
+[submodule "pip-tools"]
+	path = pip-tools
+	url = https://aur.archlinux.org/pip-tools.git
